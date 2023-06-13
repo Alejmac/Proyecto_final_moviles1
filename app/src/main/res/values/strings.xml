@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="hint_desciption">agregar nota</string>
+    <string name="Dialog_title">Nota Eliminada</string>
+    <string name="Dialog_ok">Finalizado</string>
+    <string name="Dialos_final">Eliminar</string>
+    <string name="Dialog_agp">"Agenda tu Pendiente "</string>
+
+</resources>

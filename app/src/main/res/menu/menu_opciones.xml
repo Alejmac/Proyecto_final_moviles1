@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/itemNuevo"
+        android:title="Notas"
+        android:icon="@drawable/ic_note_add"
+        app:showAsAction="always"/>
+    <item android:id="@+id/itemCalendar"
+        android:title="opciones"
+        android:icon="@drawable/ic_calendar_add"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/itemAyuda"
+        android:title="ayuda"
+        android:icon="@drawable/ic_note_add"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/itemSalir"
+        android:title="salir"
+        android:icon="@drawable/ic_note_add"
+        app:showAsAction="ifRoom"/>
+</menu>
